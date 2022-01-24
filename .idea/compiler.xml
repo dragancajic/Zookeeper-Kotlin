@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Problems-Amount_on_the_account.main" target="11" />
+      <module name="Zookeeper.Problems-Correct_the_code.main" target="11" />
+      <module name="Zookeeper.Problems-First,_second,_third.main" target="11" />
+      <module name="Zookeeper.Problems-From_0_to_9.main" target="11" />
+      <module name="Zookeeper.Problems-Print_code.main" target="11" />
+      <module name="Zookeeper.Problems-Tic-Tac-Toe.main" target="11" />
+      <module name="Zookeeper.Problems-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Invitations_and_gifts.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Knights,_merchants,_and_robbers.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Edit_it.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Check_the_input.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Find_the_correct_input.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Fix_the_input.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-How_to_learn_the_whole_Kotlin_per_one_task.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Invoke_readLine__.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Read_a_Double.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Reading_data.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Reversed_output.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-toDouble__.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Read_and_print.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Addition_and_multiplication.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Concatenation.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-JSON.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-The_string_size.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Lie_detector.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Simple_converter.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Where_is_the_type_overflow_possible_.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Assignments.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Fix_declarations.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Fix_the_program.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-val_or_var.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-out.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
