@@ -13,12 +13,51 @@
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-Knights,_merchants,_and_robbers.main" target="11" />
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-A_capital_letter_or_a_digit.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Compare_Latin_letters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Encoding_table.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Operations_allowed.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Previous_character.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Sequence.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-The_code_of_a_character.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Edit_it.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Good_rest_on_vacation.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Underscore__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
       <module name="Zookeeper.Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="11" />
       <module name="Zookeeper.Topics-Introduction_to_Kotlin-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Equal_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_first_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
@@ -34,6 +73,20 @@
       <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Reversed_output.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readLine-toDouble__.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Are_the_numbers_different_.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Find_a_suitable_input.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-What_is_the_result_.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Read_and_print.main" target="11" />
