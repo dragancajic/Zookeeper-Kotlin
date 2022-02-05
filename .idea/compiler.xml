@@ -27,6 +27,15 @@
       <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Knights.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Leap_year.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Number_dividers.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Statements_about_brackets_in_if.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-The_max_of_three_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
@@ -100,6 +109,12 @@
       <module name="Zookeeper.Topics-String_basics-JSON.main" target="11" />
       <module name="Zookeeper.Topics-String_basics-The_string_size.main" target="11" />
       <module name="Zookeeper.Topics-String_basics-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-How_to_write_string_templates_.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Theory.main" target="11" />
       <module name="Zookeeper.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
       <module name="Zookeeper.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
       <module name="Zookeeper.Topics-The_classification_of_basic_types-Theory.main" target="11" />
