@@ -27,14 +27,21 @@
       <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Boxes.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Find_the_output__1_.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Healthy_sleep.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Interval.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Knights.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Leap_year.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Number_dividers.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Odd_or_even.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Statements_about_brackets_in_if.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Statements_about_if.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-The_max_of_three_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
