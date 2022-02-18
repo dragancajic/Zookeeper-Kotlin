@@ -116,5 +116,6 @@ It looks like we will soon have more rabbits!"""
 val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
 
 fun main() {
-//    write yor code here
+    // write yor code here
+    
 }

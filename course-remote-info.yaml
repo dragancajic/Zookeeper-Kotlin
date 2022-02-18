@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/557366/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: Sat, 05 Feb 2022 19:26:17 UTC
+update_date: Fri, 18 Feb 2022 14:20:06 UTC
 stages:
 - id: 975
   step: 14133
@@ -40,29 +40,29 @@ topics:
     theory_id: 6865
   - title: The classification of basic types
     theory_id: 4455
-  - title: Boolean and logical operations
-    theory_id: 4515
   - title: Standard input
     theory_id: 4445
   - title: Type conversion
     theory_id: 4672
-  - title: Objects
-    theory_id: 11233
   - title: String basics
     theory_id: 12553
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Objects
+    theory_id: 11233
   2:
   - title: Binary numbers
     theory_id: 5544
   - title: Hexadecimal numbers
     theory_id: 8788
-  - title: Arithmetic operations
-    theory_id: 4472
-  - title: Increment and decrement
-    theory_id: 10776
   - title: Reading data with a readLine
     theory_id: 11224
+  - title: Arithmetic operations
+    theory_id: 4472
   - title: Type of the numeric expression
     theory_id: 9506
+  - title: Increment and decrement
+    theory_id: 10776
   - title: Integers in action
     theory_id: 4488
   - title: Relational operators

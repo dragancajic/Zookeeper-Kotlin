@@ -38,11 +38,13 @@
       <module name="Zookeeper.Topics-If_expression-Number_dividers.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Odd_or_even.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Queens.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Statements_about_brackets_in_if.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Statements_about_if.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-The_max_of_three_numbers.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Triangle.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
@@ -103,6 +105,13 @@
       <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Relational_operators-What_is_the_result_.main" target="11" />
       <module name="Zookeeper.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Read_and_print.main" target="11" />
@@ -139,6 +148,18 @@
       <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-val_or_var.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Balance_checker.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Collatz_conjecture.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_first_position_of_the_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sequence_1_2_2_3_3_3_.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print_.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print___1_.main" target="11" />
       <module name="Zookeeper.util.main" target="11" />
       <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
       <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
