@@ -117,5 +117,21 @@ val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
 
 fun main() {
     // write yor code here
+    val list = mutableListOf(camel, lion, deer, goose, bat, rabbit)
     
+    while (true) {
+        print("Please enter the number of the habitat you would like to view: ")
+        
+        val userInput = readLine()!!
+    
+        // Call can be replaced with binary operator -> userInput.equls("exit")
+        // if (userInput.equals("exit")) { // <---------- Replace with '==' !!!
+        if (userInput == "exit") {
+            println("See you later!")
+            break
+        } else {
+            val numberOfHabitat = userInput.toInt()
+            println(list[numberOfHabitat])
+        }
+    }
 }
