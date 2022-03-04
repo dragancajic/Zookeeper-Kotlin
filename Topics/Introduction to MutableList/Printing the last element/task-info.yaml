@@ -1,13 +1,13 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: println(mutList[mutList.size + 1])
-- text: println(mutList[-1])
-- text: println(mutList.last())
-- text: println(mutList[mutList.size - 2])
 - text: println(mutList[mutList.size])
+- text: println(mutList[-1])
 - text: println(mutList[mutList.size - 1])
+- text: println(mutList[mutList.size + 1])
+- text: println(mutList[mutList.size - 2])
 - text: println(mutList[mutList.lastIndex])
+- text: println(mutList.last())
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

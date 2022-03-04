@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: readInLine()
-- text: readLine()
-- text: readInt()
 - text: readString()
+- text: readln()
 - text: readBoolean()
+- text: readInLine()
+- text: readInt()
 - text: readLong()
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
